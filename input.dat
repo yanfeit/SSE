@@ -1,0 +1,13 @@
+8 8
+10.0 4 10000 100000
+0.02 0.01 0.00 1.0
+324563469
+
+//////////////////////
+lx ly
+beta mpps warmsteps mcsteps
+t_paralle t_perp interaction chempot
+(random number seed)
+
+// warning:: t_perp can't be assigned to int zero. 
+// it has to be a very small number!! need to be fixed in a = solution(w)
